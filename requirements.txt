@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiohttp
+networkx
+neo4j
+python-dotenv
